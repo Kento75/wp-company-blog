@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/*
+Theme Name: Pacific Malls Development
+Theme URI: http://www.prime-strategy.co.jp/download/
+Description: This is our original theme.
+Author: Prime Strategy Co.,Ltd.
+Author URI:　http://www.prime-strategy.co.jp/
+Version:1.0
+*/
+@import url(css/html5reset-1.6.1.css);
+@import url(css/layout.css);
+@import url(css/common.css);
+@import url(css/nav.css);
+@import url(css/content.css);
+@import url(css/top.css);
+
