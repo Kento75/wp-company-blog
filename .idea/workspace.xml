@@ -2,15 +2,593 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c980be44-87d2-4c0b-955c-ec2e76b60825" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/images/icon32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/images/ps_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/languages/prime-strategy-transelate-accelerator-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/languages/prime-strategy-transelate-accelerator-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/languages/prime-strategy-transelate-accelerator-ro_RO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/languages/prime-strategy-transelate-accelerator-ro_RO.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/languages/prime-strategy-transelate-accelerator.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/readme-ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/001-prime-strategy-translate-accelerator/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/all-in-one-sub-navi-widget/all-in-one-sub-navi-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/all-in-one-sub-navi-widget/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/all-in-one-sub-navi-widget/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/child-pages-shortcode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/css/child-pages-shortcode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/css/child-pages-shortcode.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/img/bg-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/img/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/js/child-pages-shortcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/js/child-pages-shortcode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/languages/child-pages-shortcode-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/languages/child-pages-shortcode-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/languages/child-pages-shortcode.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/child-pages-shortcode/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/images/dropdown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/images/fade-butt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/meta-boxes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/taggenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/capabilities.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form-template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/formatting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/animated-overlay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery.ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/pipe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/shortcodes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/submission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-af.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ar.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-az.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-be_BY.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-bg_BG.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-bn_BD.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-bn_IN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-bs_BA.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ca.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ckb.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-cs_CZ.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-da_DK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-el.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-eo_EO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-et.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-eu.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-fa_IR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-fi.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ga_IE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-gl_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-gu_IN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-he_IL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-hi_IN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-hr.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ht.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-hu_HU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-hy_AM.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-id_ID.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ka_GE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ko_KR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-lv.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-mk_MK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ml_IN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ms_MY.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-mt_MT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-nb_NO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-pa_IN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-pt_BR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ro_RO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ru_RU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-si_LK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-sk_SK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-sl_SI.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-sq.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-sr_RS.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-sv_SE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-ta.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-th.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-tl.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-tr_TR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-uk.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-vi.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-zh_CN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7-zh_TW.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/contact-form-7.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/acceptance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/akismet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/captcha.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/checkbox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/date.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/flamingo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/jetpack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/listo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/number.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/quiz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/select.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/textarea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/uninstall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/images/professional-wordpress-plugin-development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/images/professional-wordpress-secondedition.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/images/professional-wordpress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/languages/cpt-plugin-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/languages/cpt-plugin-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/languages/cpt-plugin-zh_CN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/languages/cpt-plugin-zh_CN.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/languages/custom-post-type-ui.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/languages/custom-post-type-ui.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/custom-post-type-ui/screenshot-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/class.analytics.stats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/download-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/external-tracking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/external-tracking.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/ga-md-ad-532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/ga-plugin-advert-sidebar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/ga-plugin-advert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/ga_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/gapro-plugin-advert-sidebar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-analyticator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-analytics-stats-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-analytics-summary-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/Google_Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_AssertionCredentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_AuthNone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_LoginTicket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_OAuth2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_P12Signer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_PemVerifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_Signer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/auth/Google_Verifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/cache/Google_ApcCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/cache/Google_Cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/cache/Google_FileCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/cache/Google_MemcacheCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AdExchangeSellerService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AdexchangebuyerService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AdsensehostService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AnalyticsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AndroidpublisherService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AppstateService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_AuditService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_BigqueryService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_BloggerService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_BooksService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_CalendarService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_CivicInfoService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_ComputeService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_CoordinateService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_CustomsearchService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_DatastoreService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_DfareportingService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_DirectoryService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_DriveService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_FreebaseService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_FusiontablesService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_GamesManagementService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_GamesService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_GanService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_GroupssettingsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_LatitudeService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_LicensingService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_MirrorService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_ModeratorService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_Oauth2Service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_OrkutService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_PagespeedonlineService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_PlusDomainsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_PlusMomentsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_PlusService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_PredictionService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_ReportsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_ResellerService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_SQLAdminService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_ShoppingService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_SiteVerificationService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_StorageService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_TaskqueueService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_TasksService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_TranslateService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_UrlshortenerService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_WebfontsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_YouTubeAnalyticsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/external/URITemplateParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_CacheParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_CurlIO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_HttpRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_HttpStreamIO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_IO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/Google_REST.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/io/cacerts.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/local_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/service/Google_BatchRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/service/Google_MediaFileUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/service/Google_Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/service/Google_Service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/service/Google_ServiceResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/src/service/Google_Utils.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/google-api-php-client/static/Credentials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/jquery.flot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/jquery.sparkline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-tr_TR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/localizations/google-analyticator-tr_TR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/privacy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/screenshot-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/screenshot-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-analyticator/wlcms-plugin-advert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/documentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-amazon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-arne.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-bing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-donate.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-email.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-google.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-paypal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-trac.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-wordpress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/icon-yahoo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/img/sitemap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ar.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ar.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-bg_BG.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-bg_BG.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-by_BY.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-by_BY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-cs_CZ.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-cs_CZ.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-da_DK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-da_DK.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-fi_FI.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-fi_FI.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-hi_IN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-hi_IN.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-hu_HU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-hu_HU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja_EUC.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja_EUC.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja_SJIS.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja_SJIS.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja_UTF.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ja_UTF.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ko_KR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ko_KR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-pt_BR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-pt_BR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ru_RU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-ru_RU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-sl_SI.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-sl_SI.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-sr_RS.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-sr_RS.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-sv_SE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-sv_SE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-tr_TR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-tr_TR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-uk_UA.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-uk_UA.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-zh_CN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-zh_CN.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-zh_TW.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap-zh_TW.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/lang/sitemap.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap-builder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap-core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap-loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap-ui.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap-wpmu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/google-sitemap-generator/sitemap.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/meta-manager/images/icon32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/meta-manager/images/ps_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/meta-manager/meta-manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/meta-manager/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/language/ps-bread-crumb-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/language/ps-bread-crumb-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/language/ps-bread-crumb.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/prime-strategy-bread-crumb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/readme-ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-bread-crumb/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-page-navi/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-page-navi/prime-strategy-page-navi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-page-navi/readme-ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prime-strategy-page-navi/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_arrows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_business.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_checker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_cube.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_document.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_marker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_simple2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_under_score.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/css/ps_auto_sitemap_urban.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/arrows/bg_lv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/arrows/ico_lower_lv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/arrows/ico_lv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/arrows/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/arrows/line_dotted_glay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/business/ico_lower_lv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/business/ico_lv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/business/ico_lv2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/business/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/business/line_dotted_brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/checker/ico_checker_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/checker/ico_checker_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/checker/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/cube/bullet_orange_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/cube/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/cube/icon_package.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/cube/line_horizontal_solid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/cube/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/document/bg_vertical_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/document/ico_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/document/ico_post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/document/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/index/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/index/line_dotted_glay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/home_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/home_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv1_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv1_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv2_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv2_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv3_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv3_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv4_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv4_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv5_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv5_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv6_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv6_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv7_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv7_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv8_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/label/lv8_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/marker/bg_marker_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/marker/bg_marker_green_thin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/marker/bg_marker_pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/marker/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/marker/line_pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/bg_li.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_crotchet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_demiquaver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_demisemiquaver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_g_clef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_minim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_quaver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_semibreve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_turned_crotchet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_turned_demiquaver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_turned_minim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/music/ico_turned_quaver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/simple/ico_gray_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/simple/ico_list_square.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/simple/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/simple/line_horizontal_solid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/simple2/ico_level_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/simple2/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/sitemap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/under_score/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/under_score/icon_list_level2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/under_score/icon_list_level3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/under_score/icon_list_level4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/under_score/icon_list_level5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/under_score/line_solid_d_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/urban/bg_level1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/urban/ico_post_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/urban/icon_large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/images/urban/icon_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/language/ps_auto_sitemap-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/language/ps_auto_sitemap-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/language/ps_auto_sitemap-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/language/ps_auto_sitemap-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/language/ps_auto_sitemap.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/ps_auto_sitemap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/ps-auto-sitemap/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/admin-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/admin-icon32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/arrow_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/arrow_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/images/lock-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/network.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/css/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/js/metabox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/ajax_message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/metabox/ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/metabox/domain_mapping.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/metabox/filters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/metabox/network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/metabox/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/metabox/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/admin/templates/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/languages/wordpress-https-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/languages/wordpress-https-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/languages/wordpress-https.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Logger/Interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Plugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Plugin/Module.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Plugin/Module/Interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Theme/Module.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/Theme/Module/Interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/Mvied/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Logger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/DomainMapping.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Ecommerce.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Parser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/UrlFilters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Url.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/uninstall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-https/wordpress-https.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-importer/languages/wordpress-importer.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-importer/parsers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-importer/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wordpress-importer/wordpress-importer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/Changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/advanced-cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-be_BY.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-be_BY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ro_RO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ro_RO.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ru_RU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ru_RU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-sr_RS.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-sr_RS.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-sv_SE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-sv_SE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-tr_TR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-tr_TR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ua_UA.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-ua_UA.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-uk.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-uk.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-zh_CN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-zh_CN.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-zh_TW.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/languages/wp-super-cache-zh_TW.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/ossdl-cdn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/awaitingmoderation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/badbehaviour.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/domain-mapping.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/dynamic-cache-test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/jetpack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/multisite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/searchengine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/plugins/wptouch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/wp-cache-base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/wp-cache-config-sample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/wp-cache-phase1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/wp-cache-phase2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/wp-cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-super-cache/wp-super-cache.pot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/pacific/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/pacific/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/pacific/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/pacific/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/pacific/images/top/main_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/pacific/images/top/main_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/screenshot-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/screenshot-300x225.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/screenshot-768x576.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/screenshot-780x320.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/06/screenshot.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +603,26 @@
           <entry key="css" value="1" />
           <entry key="html" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="php" value="12" />
-          <entry key="png" value="4" />
+          <entry key="php" value="13" />
+          <entry key="png" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="5" />
-          <entry key="PHP" value="12" />
+          <entry key="Image" value="8" />
+          <entry key="PHP" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="577" />
+          <entry key="php" value="690" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="577" />
+          <entry key="PHP" value="690" />
         </counts>
       </usages-collector>
     </session>
@@ -55,16 +633,25 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="18" selection-end-column="20" />
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/functions.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="273">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -85,8 +672,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/pacific/sidebar-top.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pacific/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pacific/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/pacific/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/pacific/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pacific/header.php" />
       </list>
     </option>
   </component>
@@ -108,6 +695,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +727,7 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="pacific" type="462c0819:PsiDirectoryNode" />
-              <item name="template-parts" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
@@ -147,11 +735,25 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="uploads" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="06" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,12 +795,14 @@
       <workItem from="1529357029352" duration="189000" />
       <workItem from="1529409679838" duration="2557000" />
       <workItem from="1529441707412" duration="2090000" />
-      <workItem from="1529528174337" duration="1726000" />
+      <workItem from="1529528174337" duration="1977000" />
+      <workItem from="1529610140882" duration="1147000" />
+      <workItem from="1529611869853" duration="357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7639000" />
+    <option name="totallyTimeSpent" value="9394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,7 +817,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -269,33 +873,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/images/top/main_image.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/uploads/2018/06/main_image.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/images/top/main_image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/images/top/main_image.png">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/images/top/mall_image.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="18" selection-end-column="20" />
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pacific/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>

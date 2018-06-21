@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prime Strategy Bread Crumb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Hitoshi Omagari <jim912@nifty.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_x\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: prime-strategy-bread-crumb\n"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:5
+msgid "This plugin adds the function to display breadcrumbs (topic path) navigation. You can use display styles, lots of parameters of styles and original plugin hooks of breadcrumbs navigation, and you can customize navigations flexibly."
+msgstr "パンくずナビ（トピックパス）表示機能を追加します。表示タイプ、スタイルに関する多数のパラメータやパンくずナビ独自のプラグインフックが用意されており、フレキシブルなカスタマイズが可能です。"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:27
+msgid "Home"
+msgstr "トップページ"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:28
+#, php-format
+msgid "Search Result of \"%s\""
+msgstr "『%s』の検索結果"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:29
+msgid "404 Not Found"
+msgstr "404 Not Found"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:30
+msgctxt "category label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:31
+msgctxt "tag label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:32
+msgctxt "taxonomy label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:33
+msgctxt "author label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:34
+msgctxt "attachment label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:35
+msgctxt "year label"
+msgid "%s"
+msgstr "%s年"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:36
+msgctxt "month label"
+msgid "%s"
+msgstr "%s月"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:37
+msgctxt "day label"
+msgid "%s"
+msgstr "%s日"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:38
+msgctxt "post type label"
+msgid "%s"
+msgstr "%s"
+
+#: prime-strategy-bread-crumb/prime-strategy-bread-crumb.php:39
+msgid " &gt; "
+msgstr " &gt; "
+

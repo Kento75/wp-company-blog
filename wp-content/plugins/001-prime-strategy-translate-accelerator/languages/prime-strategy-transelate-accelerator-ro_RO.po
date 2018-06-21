@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PS translate accelarator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-01 15:17+0900\n"
+"PO-Revision-Date: 2012-02-06 22:08+0200\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: 001-prime-strategy-translate-accelerator\n"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:8
+msgid "This plugin makes the translation file cashes, and shortens the execution time to display of your WordPress site."
+msgstr "Acest plugin-ul face fişierul de traducere clasări în bani, şi scurtează timpul de executare pentru a afişa de site-ul WordPress."
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:235
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:239
+msgid "Enable the translation cache."
+msgstr "Permite cache traducere."
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:244
+msgid "Cache type"
+msgstr "Cache de tip"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:247
+msgid "Files"
+msgstr "Fişiere"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:248
+msgid "Cache directory :"
+msgstr "Directorul de cache:"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:250
+msgid "APC"
+msgstr "APC"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:255
+msgid "Translation of site pages."
+msgstr "Traducere de site-ul pagini."
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:258
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:268
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:278
+msgid "Enable cache"
+msgstr "Permite cache"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:259
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:269
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:279
+msgid "Stop translate"
+msgstr "Stop traduce"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:260
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:270
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:280
+msgid "Translate normaly"
+msgstr "Traduce normaly"
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:265
+msgid "Translation of the login/signup page."
+msgstr "Traducere de pagina de login/înscriere."
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:275
+msgid "Translation of the admin page."
+msgstr "Traducere de pagina de admin."
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:285
+msgid "Delete cache."
+msgstr "Şterge memoria cache."
+
+#: 001-prime-strategy-translate-accelerator/001-prime-strategy-translate-accelerator.php:289
+msgid "Force to delete all the cache."
+msgstr "Vigoare pentru a şterge toate cache-ul."
+
