@@ -1,1 +1,1 @@
-"# wp-company-blog" 
+# wp-company-blog
